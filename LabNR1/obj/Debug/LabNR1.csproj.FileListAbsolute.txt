@@ -1,0 +1,6 @@
+C:\Users\its27eo1\Google Drive\Skola\C#\InkapsulacijaMantosana\LabNR1\LabNR1\bin\Debug\LabNR1.exe.config
+C:\Users\its27eo1\Google Drive\Skola\C#\InkapsulacijaMantosana\LabNR1\LabNR1\bin\Debug\LabNR1.exe
+C:\Users\its27eo1\Google Drive\Skola\C#\InkapsulacijaMantosana\LabNR1\LabNR1\bin\Debug\LabNR1.pdb
+C:\Users\its27eo1\Google Drive\Skola\C#\InkapsulacijaMantosana\LabNR1\LabNR1\obj\Debug\LabNR1.csprojResolveAssemblyReference.cache
+C:\Users\its27eo1\Google Drive\Skola\C#\InkapsulacijaMantosana\LabNR1\LabNR1\obj\Debug\LabNR1.exe
+C:\Users\its27eo1\Google Drive\Skola\C#\InkapsulacijaMantosana\LabNR1\LabNR1\obj\Debug\LabNR1.pdb
